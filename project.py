@@ -569,7 +569,7 @@ def main_task():
 
     Frame5 = Frame(wi, bd=10,relief=GROOVE, bg="#074463")
     Frame5.place(x=0, y=640, width=1600,height=80)
-    lbl = Label(Frame5, font=( 'Monotype Corsiva' ,14, 'bold' ),text='Designed by Sanjay Singh',fg="white",bg="#074463")
+    lbl = Label(Frame5, font=( 'Monotype Corsiva' ,14, 'bold' ),text='Unico Billing System',fg="white",bg="#074463")
     lbl.grid(row=0,column=0,padx=550,pady=15)
 
     
